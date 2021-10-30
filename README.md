@@ -3,10 +3,4 @@ The various risk factors for developing coronary disease are Age, Sex, Smoking, 
 
 The application is built using Python. The various Python libraries used are Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn and Streamlit. To build the model, Google Colaboratory is used. After reading the data and pre-processing, I tried out different classification models along with hyper-parameter tuning.
 
-Accuracy Score of Random Forest Classifier Model is 82.42%
-Accuracy Score of Logistic Regression Model is 83.52%
-Accuracy Score of KNN Classifier Model is 86.81%
-Accuracy Score of SVM Classifier Model is 82.42%
-Accuracy Score of Decision Tree Classifier Model is 78.02%
-
-The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with n_neighbors = 6. The Accuracy achieved is around 87%. So, I have used that model in the web application. The interface of the app is built using Streamlit.
+The best Accuracy Score is achieved by using K-Nearest Neighbors Algorithm with n_neighbors = 6. The Accuracy achieved is around 90%. So, I have used that model in the web application. The interface of the app is built using Streamlit, HTML, CSS.
