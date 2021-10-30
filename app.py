@@ -15,7 +15,7 @@ local_css("style.css")
 
 header = """
 <div style="padding:0px;">
-<h1 style="color:#ffcc00;text-align:center; font-size:50px;">Cardiac Check</h1>
+<h1 style="color:#ffcc00;text-align:center; font-size:50px;">Cardiac Check🫀</h1>
 <h6 style="color:#99ff66;text-align:center; font-size:25px;">Get your results instantly!🤳</h6>
 </div>
 <br>
